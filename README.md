@@ -1,5 +1,12 @@
 <h1 align="center">João Constantino</h1>
 
+
+Hello, I'm João Constantino! I'm a technology enthusiast passionate about software development and innovation. I want to turn this passion into a career by creating efficient and impactful solutions. I'm particularly interested in web and mobile development.
+
+🎯 My goal: To become an excellent developer!
+
+On my GitHub, I share projects that reflect my learning and growth. I'm always open to exchanging ideas and collaborating! 🚀
+
 ### 🌍 Social Media
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j0a0_constantino/)
@@ -7,7 +14,7 @@
 
 ----
 
-### 🪴 Programming Languages
+### 💻 Programming Languages
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-a?logo=Python&logoColor=black&color=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-a?style=flat&logo=JavaScript&logoColor=black&color=white">
