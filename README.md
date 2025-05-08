@@ -3,7 +3,7 @@
 
 Hello, I'm João Constantino! I'm a technology enthusiast passionate about software development and innovation. I want to turn this passion into a career by creating efficient and impactful solutions. I'm particularly interested in web and mobile development.
 
-🎯 My goal: To become an excellent developer!
+🎯 My goal: To become an excellent Software Engineer!
 
 On my GitHub, I share projects that reflect my learning and growth. I'm always open to exchanging ideas and collaborating! 🚀
 
