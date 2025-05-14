@@ -36,10 +36,8 @@ On my GitHub, I share projects that reflect my learning and growth. I'm always o
 </div>
 
 ### 📊 Estatisticas sobre meu github
-<table>
-  <tr>
-    <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constantino2710&theme=dracula&layout=compact"alt="Github Stats">
-    </td>
-  </tr>
-</table>
+<div>
+  <a href="https://github.com/constantino2710">
+  <img src="https://github-readme-stats.vercel.app/api?username=constantino2710&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constantino2710&layout=compact&langs_count=7&theme=dracula"/>
+</div>
