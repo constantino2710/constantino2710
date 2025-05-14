@@ -34,3 +34,12 @@ On my GitHub, I share projects that reflect my learning and growth. I'm always o
   <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-a?style=flat&logo=Firebase&logoColor=white&color=purple">
   <img alt="Static Badge" src="https://img.shields.io/badge/Vercel-a?style=flat&logo=Vercel&logoColor=white&color=purple">
 </div>
+
+### 📊 Estatisticas sobre meu github
+<table>
+  <tr>
+    <td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constantino2710&theme=dracula&layout=compact"alt="Github Stats">
+    </td>
+  </tr>
+</table>
